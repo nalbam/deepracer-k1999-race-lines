@@ -19,3 +19,12 @@ Borrowed directly from [Rémi Coulom's PhD Thesis](https://www.remi-coulom.fr/Th
 > ![](assets/algorithm.png)
 
 The code was hastily written but achieved a good enough result, so I stopped improving it.  One limitation is that the points along the race line will never migrate in the opposite direction of curvature, leaving some room for further straightening of the race line.
+
+## python
+
+```bash
+pip3 install numpy
+pip3 install shapely
+pip3 install pandas
+pip3 install matplotlib
+```
